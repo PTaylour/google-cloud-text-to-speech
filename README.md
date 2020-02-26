@@ -6,7 +6,7 @@ Use node to play google-cloud text-to-speech via your speakers
 npm install
 ```
 
-You'll need to point GOOGLE_APPLICATION_CREDENTIALS at your service accounts credentials.
+You'll need to point `GOOGLE_APPLICATION_CREDENTIALS` at your service accounts credentials.
 No roles required.
 
 ```
