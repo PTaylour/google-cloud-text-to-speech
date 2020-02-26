@@ -1,7 +1,7 @@
 {
-  "name": "text-to-speech",
+  "name": "google-cloud-text-to-speech",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use node to play google-cloud text-to-speech via your speakers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
